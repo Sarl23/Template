@@ -24,7 +24,6 @@ h1 {
 
 .examples {
     text-align: center;
-    margin-left:-15px;
 }
 
 .image:hover {
@@ -54,7 +53,7 @@ span.text-content {
     left: 15px;
     position: absolute;
     top: 15px;
-    width: 280px;
+    width: 110px;
     opacity: 0;
     -webkit-transition: opacity 500ms;
     -moz-transition: opacity 500ms;
@@ -80,7 +79,7 @@ ul.img-list li {
     height: 150px;
     margin: 0 1em 1em 0;
     position: relative;
-    width: 280px;
+    width: 110px;
 }
 
 ul.img-list li:hover span.text-content {
